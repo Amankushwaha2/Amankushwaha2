@@ -20,7 +20,7 @@ Front End Developer
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br />
 
-[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Amankushwaha2&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Amankushwaha2/github-readme-activity-graph)
+(https://activity-graph.herokuapp.com/graph?username=Amankushwaha2&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Amankushwaha2/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
