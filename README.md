@@ -27,5 +27,5 @@ Front End Developer
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amankushwaha2&show_icons=true&locale=en&layout=compact" alt="Aman Kushwaha" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amankushwaha2&show_icons=true&locale=en" alt="Aman Kushwaha" /></p>
-![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Amankushwaha2/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
