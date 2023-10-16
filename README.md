@@ -1,9 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Aman Kushwaha</h1>
-<h3 align="center">
 
-
-
-></h3>
 
 <br />
 
